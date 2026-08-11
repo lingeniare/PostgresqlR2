@@ -50,7 +50,7 @@ All settings are in `.env`:
 DATABASE_URL=postgresql://user:pass@host:port/dbname
 R2_ACCESS_KEY_ID=...
 R2_SECRET_ACCESS_KEY=...
-R2_BUCKET_NAME=vega
+R2_BUCKET_NAME=..
 R2_ENDPOINT=https://....r2.cloudflarestorage.com
 R2_REGION=auto
 BACKUP_PASSWORD=..
